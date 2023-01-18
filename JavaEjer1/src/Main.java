@@ -14,14 +14,14 @@ public class Main {
         System.out.println("Numeros enteros: " + number1 + " , " + number2 + " , " + number3 + " , " + number4);
 
         // decimales
-        float decimal1 = 4.9f;
+        float decimal1 = 3.3f;
         double decimal2 = 9.99d;
 
         System.out.println("Decimales: " + decimal1 + " , " + decimal2);
 
         // cadena de texto
-        String nombre = "Jose David";
-        String apellido = "Prieto";
+        String nombre = "Daniel";
+        String apellido = "González";
 
         // caracter
         char caracter1 = 'a';
